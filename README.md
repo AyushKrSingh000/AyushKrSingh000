@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on **Mobile App Development(Backend)**.<br><br> I’m currently learning **Firbase and Getx**.<br><br>
+I’m currently working on **Mobile App Development(Backend)**.<br><br> I’m currently learning **Firebase and Getx For Backend**.<br><br>
 How To reach me **ayushkumarsingh0708@gmail.com**<br><br>
 
 ## 🌐 Socials:

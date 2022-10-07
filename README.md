@@ -12,6 +12,11 @@ How To reach me **ayushkumarsingh0708@gmail.com**<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushKrSingh000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AyushKrSingh000&theme=react-dark&hide_border=true&area=true" alt="Contribution"/>
+</p>
+<hr>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushKrSingh000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---

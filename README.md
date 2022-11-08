@@ -31,12 +31,13 @@
 <hr>
 
 # 📊 GitHub Stats:
-<img src = "https://activity-graph.herokuapp.com/graph?username=AyushKrSingh000&theme=algolia&hide_border=true&area=true" width = 90%>
+<p align="center">
+<img src = "https://activity-graph.herokuapp.com/graph?username=AyushKrSingh000&theme=gotham&hide_border=true&area=true" width = 80%>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=gotham&layout=compact" alt="AyushKrSingh000" width = "42%"/>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=algolia&hide_border=false" width = "50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=algolia" alt="JhndaCoder" width = 65%/>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=algolia&layout=compact" alt="AyushKrSingh000" width = "41%"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=algolia&hide_border=true" width = "56%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=algolia" alt="JhndaCoder" width = 60%/>
 <hr>
 
 ## Holopin Badges:

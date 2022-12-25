@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=AyushKrSingh000&theme=gotham&hide_border=true&area=true" width = 80%>
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=AyushKrSingh000&theme=gotham&hide_border=true&area=true" width = 80%>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=algolia&layout=compact" alt="AyushKrSingh000" width = "41%"/>

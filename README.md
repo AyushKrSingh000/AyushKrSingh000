@@ -4,11 +4,12 @@
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=AyushKrSingh000&icon=0&color=0" alt="AyushKrSingh000" /></p>
 <hr>
-
-<img height="auto" align="center" alt="Ayush Kr Singh's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=AyushKrSingh000&row=1&column=7&theme=algolia&margin-w=15e" />
-
+<p align="center">
+<img height="auto"  alt="Ayush Kr Singh's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=AyushKrSingh000&row=1&column=6&theme=radical&margin-w=15e" />
+</p>
 <hr>
+
 
 # 💫 About Me: 
 
@@ -33,12 +34,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=AyushKrSingh000&theme=gotham&hide_border=true&area=true" width = 80%>
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=AyushKrSingh000&theme=radical&hide_border=true&area=true" width = 80%>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=algolia&layout=compact" alt="AyushKrSingh000" width = "41%"/>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=algolia&hide_border=true" width = "56%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=algolia" alt="JhndaCoder" width = 60%/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=radical&layout=compact" alt="AyushKrSingh000" width = "41%"/>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "56%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="JhndaCoder" width = 60%/>
 <hr>
 
 ## Holopin Badges:
@@ -47,10 +48,8 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 

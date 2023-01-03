@@ -39,7 +39,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=radical&layout=compact" alt="AyushKrSingh000" width = "41%"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "56%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="JhndaCoder" width = 60%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 60%/>
 <hr>
 
 ## Holopin Badges:

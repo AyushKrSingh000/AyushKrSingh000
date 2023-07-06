@@ -33,13 +33,14 @@
 <hr>
 
 # 📊 GitHub Stats:
-<p align="center">
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=AyushKrSingh000&theme=radical&hide_border=true&area=true" width = 80%>
-</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&langs_count=8&theme=radical&layout=compact" alt="AyushKrSingh000" width = "41%"/>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "56%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 60%/>
+         
+[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=AyushKrSingh000&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "50%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 46%/>
+</p>        
 <hr>
 
 ## Holopin Badges:

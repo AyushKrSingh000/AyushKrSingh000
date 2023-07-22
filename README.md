@@ -35,7 +35,7 @@
 # 📊 GitHub Stats:
 
          
-[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=AyushKrSingh000&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=AyushKrSingh000&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/AyushKrSingh000)
 
 <p>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "50%" >

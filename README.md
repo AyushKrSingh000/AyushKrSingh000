@@ -38,9 +38,14 @@
 [![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=AyushKrSingh000&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/AyushKrSingh000)
 
 <p>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "50%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 46%/>
+          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&theme=radical&hide_border=true&layout=pie" width = "16%" > 
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "43%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 40%/>
 </p>        
+<hr>
+<p>
+      
+</p>
 <hr>
 
 ## Holopin Badges:

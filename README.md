@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Kotlin for Android Development**
 
 - 👯 I’m looking to collaborate on **App Development Project (Flutter)**
 

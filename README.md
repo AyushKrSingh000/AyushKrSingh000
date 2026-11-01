@@ -1,63 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
+<h1 align="center">Hi, I'm Ayush Kumar Singh 👋</h1>
 
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">Software Engineer @ NuvertOS · Full-stack · Healthcare SaaS</h3>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=AyushKrSingh000&icon=0&color=0" alt="AyushKrSingh000" /></p>
-<hr>
 <p align="center">
-<img height="auto"  alt="Ayush Kr Singh's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=AyushKrSingh000&row=1&column=6&theme=radical&margin-w=15e" />
+  <a href="https://oyusportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-9ab626216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/AyushKrSingh000"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:ayushkumarsingh0708@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/ayush_kr.singh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-<hr>
 
+---
 
-# 💫 About Me: 
+## About me
 
-- 🔭 I’m currently working on **App Development**
+I build a hospital management system (HMIS) at **NuvertOS** that runs in production across multiple hospitals. Most of my work goes from the **Angular** front end through **Node.js / PHP** services down to **MySQL**, so I'm comfortable owning a feature end to end.
 
-- 🌱 I’m currently learning **Kotlin for Android Development**
+- 🏥 Designed the cross-hospital patient identity model behind the cross-hospital wallet and reporting
+- 🔐 Built a configurable role, permission and approval engine, so hospitals set up access without code changes
+- 💬 Shipped WhatsApp notifications, payment gateway integration, geofenced login and the ABDM health APIs
+- 🧭 Ran the sprint for a team of 4 and mentored 6+ engineers
+- 🐞 Favourite kind of work: debugging the cross-service issues nobody else has cracked yet
 
-- 👯 I’m looking to collaborate on **App Development Project (Flutter)**
+Before this I built Flutter apps, including the official app for Thapar's fest, Saturnalia, used by 10,000+ attendees. B.E. Computer Engineering from Thapar Institute (9.25 CGPA), Smart India Hackathon 2022 winner.
 
-- 📫 How to reach me **ayushkumarsingh0708@gmail.com**
-<hr>
+---
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://instagram.com/ayush_kr.singh" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram" alt="ayush_kr.singh" height="40" width="150" /></a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-9ab626216" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin " alt="ayush-kumar-singh-9ab626216" height="40" width="150" /></a>
-</p>
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<hr>
-
-# 📊 GitHub Stats:
-
-         
-[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=AyushKrSingh000&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/AyushKrSingh000)
+## Tech I work with
 
 <p>
-          <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKrSingh000&theme=radical&hide_border=true&layout=pie" width = "16%" > 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=AyushKrSingh000&theme=radical&hide_border=false" width = "43%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushKrSingh000&show_icons=true&theme=radical" alt="AyushKrSingh000" width = 40%/>
-</p>        
-<hr>
-<p>
-      
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,express,php,mysql,postgres,mongodb,firebase,nextjs,react,tailwind,flutter,dart,docker,git,linux&perline=9" alt="Tech stack" />
 </p>
-<hr>
 
-## Holopin Badges:
-<p align="center"> <img src = "https://holopin.me/@ayushkrsingh000"> </p>
-<hr>
+---
 
+## Featured projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Project | What it is | Stack |
+|---|---|---|
+| [**Dev-Note**](https://oyusdevnote.netlify.app/) | Notes workspace for developers: backlinks, nested folders, task planner, sharing, a URL shortener, and an **MCP server** that lets Claude read and edit notes | Next.js, TypeScript, Firebase |
+| [**Portfolio**](https://oyusportfolio.netlify.app/) | My site, with a command palette, guestbook, articles and a working contact form | Next.js, TypeScript, Tailwind |
+| [**Saturnalia App**](https://play.google.com/store/apps/details?id=com.saturnalia.saturnalia_app) | Official fest app: QR entry, rewards store, polls and live events for 10,000+ attendees | Flutter, Riverpod, Firebase |
+| **Capstone Submission Portal** | University platform for capstone groups, mentors and evaluations, 1,200+ users | React, Next.js, Flutter, Django, PostgreSQL |
 
+---
 
+## GitHub streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyushKrSingh000&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
 
+## Holopin badges
 
-
+<p align="center"><img src="https://holopin.me/@ayushkrsingh000" alt="Holopin badges" /></p>
